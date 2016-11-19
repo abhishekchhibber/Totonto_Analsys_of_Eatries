@@ -1,6 +1,6 @@
 # Totonto: Analysis of Eateries
 ##This project analyzes all the bars,	cafes,	fast food joints, ice cream parlours,	pubs, and	restaurants in Toronto, Canada
-### Stack Used: Python (3.5), MySQL, Javascript (for query tool), iPython (for analysis)
+### Stack Used: Python (3.5), MySQL, iPython (for analysis)
 
 This project analyzes all the eateries in the city of Toronto, Canada. This is first part of a project, which helps end user to type-in their postal code and get a list of all the eateries in the given postal code.
 
