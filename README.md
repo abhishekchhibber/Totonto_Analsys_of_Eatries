@@ -1,4 +1,4 @@
-# Totonto = Analysis of Eateries
+# Totonto: Analysis of Eateries
 ##This project analyzes all the bars,	cafes,	fast food joints, ice cream parlours,	pubs, and	restaurants in Toronto, Canada
 ### Stack Used: Python (3.5), MySQL, Javascript (for query tool), iPython (for analysis)
 
